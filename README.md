@@ -1,9 +1,13 @@
 ### Hi I'm **Markus Fleschutz**,
 
-- 🔋 a **cleantech enthusiast** - with a background in industrial engineering, data science, and mathematical optimization and 6 years of experience on national funded decarbonization projects in the industry sector,
+a researcher, programmer, business developer, and dad, leveraging energy flexibility to decarbonize industrial heat.
 
-- 🎓 **energy flexibility researcher** - doing a PhD in non-residential demand response ([Google Scholar](https://scholar.google.com/citations?user=U52x-LEAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Markus-Fleschutz)),
+Background:
+* PhD in non-residential demand response, see my [PhD Thesis](https://zenodo.org/records/13835113).
+* Expertise in energy system optimization.
+* Published in leading scientific journals, see [Google Scholar](https://scholar.google.com/citations?user=U52x-LEAAAAJ).
+* Developed multiple Python packages, e.g. [draf](https://github.com/DrafProject/draf) or [elmada](https://github.com/DrafProject/elmada).
+* 10 years experience in energy system modeling, see my [LinkedIn profile](https://www.linkedin.com/in/markus-fleschutz/).
+* Raised on an organic farm in DE and Committed to a sustainable future 🔋.
 
-- 🧑‍💻 and **Python developer** - developing tools that quantify demand response potentials (**D**emand **R**esponse **A**nalysis **F**ramework, [draf](https://github.com/DrafProject/draf)) and dynamic electricity carbon emission factors ([elmada](https://github.com/DrafProject/elmada)).
-
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/markus-fleschutz/). 🚀
+Follow me on [LinkedIn](https://www.linkedin.com/in/markus-fleschutz/) for insights on energy transition and demand response. 🚀
